@@ -32,7 +32,7 @@
 .btn {
     text-decoration: none;
     display: inline-block;
-    padding: 13px 25px;
+    padding: 8px 16px;
     border-radius: 23px;
     font-size: 14px;
 }
@@ -85,8 +85,7 @@ main {
 }
 
 .card {
-    padding: 40px;
-
+    padding: 20px;
 }
 
 .card .title {
